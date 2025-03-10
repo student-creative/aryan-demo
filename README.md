@@ -1,4 +1,4 @@
 # aryan-demo
 This is my first Git Repository
 <br>
-Author - Aryan (creative student)
+Author - Aryan (creative-student)
